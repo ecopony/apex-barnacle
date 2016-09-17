@@ -1,0 +1,8 @@
+{
+  "name": "apex-barnacle",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::459467328059:role/apex-barnacle_lambda_function",
+  "environment": {}
+}
